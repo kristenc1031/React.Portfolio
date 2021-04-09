@@ -10,6 +10,9 @@ export default class ContactUs extends Component {
               <p className="lead">
               Feel free to contact me for a collaboration.
               </p>
+              <p className="lead">
+              kristenc1031@gmail.com | 402.920.0781
+              </p>
             </div>
           </div>
           <div className="row">

@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    // "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Kristen Campbell",
     "role": "Full Stack Web Developer",
     "linkedinId":"https://www.linkedin.com/in/kristen-campbell-7212b0196/",
@@ -16,7 +16,7 @@ let resumeData = {
           "className":"fa fa-github"
         },
       ],
-    "aboutme":"I am currently finishing up my Full Stack Web Development class through University of Denver's Coding Boot Camp.",
+    "aboutme":"I am a graduate of Univeristy of Denver's Coding Bootcamp, where I received a web development certification. I am looking for a front end development position.",
     "address":"Denver, CO",
     "website":"https://github.com/kristenc1031",
     "education":[
@@ -52,26 +52,38 @@ let resumeData = {
       {
         "name":"Music Artist Search",
         "description":"mobileapp",
-        "url": "https://github.com/Jdouville8/DUFullStack-Project1",
-        "imgurl":"https://images.unsplash.com/photo-1572177812156-58036aae439c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvamVjdHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "url": "https://jdouville8.github.io/DUFullStack-Project1/",
+        "imgurl":"https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OXx8bXVzaWN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       },
       {
         "name":"Note Taker",
         "description":"mobileapp",
         "url": "https://hidden-ravine-39485.herokuapp.com/",
-        "imgurl":"https://images.unsplash.com/photo-1572177812156-58036aae439c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvamVjdHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "imgurl":"https://images.unsplash.com/photo-1517842645767-c639042777db?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bm90ZXN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       },
       {
         "name":"Workout Tracker",
         "description":"mobileapp",  
         "url": "https://fierce-gorge-75966.herokuapp.com/",
-        "imgurl":"https://images.unsplash.com/photo-1572177812156-58036aae439c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvamVjdHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "imgurl":"https://images.unsplash.com/photo-1535743686920-55e4145369b9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mjl8fHdvcmtvdXQlMjB0cmFja2VyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       },
       {
         "name":"Daily Horoscope App",
         "description":"mobileapp",
         "url": "https://damp-mountain-65863.herokuapp.com/",
-        "imgurl":"https://images.unsplash.com/photo-1572177812156-58036aae439c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvamVjdHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "imgurl":"https://images.unsplash.com/photo-1515942661900-94b3d1972591?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8aG9yb3Njb3BlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      },
+      {
+        "name":"Hospitality Herold App - username: charles  password: testpwd",
+        "description":"mobileapp",
+        "url": "https://hostelhedonism.herokuapp.com/login",
+        "imgurl":"https://images.unsplash.com/photo-1586214601498-4dbcfd0bf2c8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8ODl8fGhvc3RlbHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      },
+      {
+        "name":"HTML/CSS Portfolio",
+        "description":"mobileapp",
+        "url": "https://kristenc1031.github.io/Bootstraps-portfolio/",
+        "imgurl":"https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjZ8fHdlYiUyMGRldmVsb3BtZW50fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       }
     ],
     // "testimonials":[
